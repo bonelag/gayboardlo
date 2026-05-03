@@ -22,8 +22,8 @@ window.XBOARD_TRANSLATIONS['vi-VN'] = {
     "card": {
       "version": "Phiên bản: {{version}}",
       "currentTheme": "Giao diện hiện tại",
-      "activateTheme": "Kích hoạt giao diện",
-      "configureTheme": "Cài đặt giao diện",
+      "activateTheme": "Kích hoạt",
+      "configureTheme": "Thiết lập",
       "preview": "Xem trước",
       "delete": {
         "title": "Xóa giao diện",
@@ -82,9 +82,9 @@ window.XBOARD_TRANSLATIONS['vi-VN'] = {
     "overview": {
       "total": "Tổng máy chủ",
       "total_hint": "Tổng số node đang chạy: {{count}}",
-      "online": "Máy chủ trực tuyến",
+      "online": "Trực tuyến",
       "online_hint": "Có tín hiệu heartbeat trong 5 phút qua",
-      "offline": "Ngoại tuyến / Mất kết nối",
+      "offline": "Ngoại tuyến",
       "offline_hint": "Cần kiểm tra heartbeat hoặc agent",
       "high_load": "Tải cao",
       "high_load_hint": "CPU, RAM hoặc Disk gần đạt ngưỡng giới hạn",
